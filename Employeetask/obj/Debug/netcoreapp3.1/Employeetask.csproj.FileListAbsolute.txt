@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\obj\Debug\netcoreapp3.1\Employeetask.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\obj\Debug\netcoreapp3.1\Employeetask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\obj\Debug\netcoreapp3.1\Employeetask.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\obj\Debug\netcoreapp3.1\Employeetask.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\obj\Debug\netcoreapp3.1\Employeetask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\bin\Debug\netcoreapp3.1\Employeetask.exe
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\bin\Debug\netcoreapp3.1\Employeetask.deps.json
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\bin\Debug\netcoreapp3.1\Employeetask.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\bin\Debug\netcoreapp3.1\Employeetask.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\bin\Debug\netcoreapp3.1\Employeetask.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\bin\Debug\netcoreapp3.1\Employeetask.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\obj\Debug\netcoreapp3.1\Employeetask.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\obj\Debug\netcoreapp3.1\Employeetask.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\Employeetask\obj\Debug\netcoreapp3.1\Employeetask.genruntimeconfig.cache
