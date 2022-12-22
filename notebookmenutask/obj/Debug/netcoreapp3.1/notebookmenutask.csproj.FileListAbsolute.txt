@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\bin\Debug\netcoreapp3.1\notebookmenutask.exe
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\bin\Debug\netcoreapp3.1\notebookmenutask.deps.json
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\bin\Debug\netcoreapp3.1\notebookmenutask.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\bin\Debug\netcoreapp3.1\notebookmenutask.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\bin\Debug\netcoreapp3.1\notebookmenutask.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\bin\Debug\netcoreapp3.1\notebookmenutask.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\obj\Debug\netcoreapp3.1\notebookmenutask.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\obj\Debug\netcoreapp3.1\notebookmenutask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\obj\Debug\netcoreapp3.1\notebookmenutask.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\obj\Debug\netcoreapp3.1\notebookmenutask.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\obj\Debug\netcoreapp3.1\notebookmenutask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\obj\Debug\netcoreapp3.1\notebookmenutask.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\obj\Debug\netcoreapp3.1\notebookmenutask.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\notebookmenutask\obj\Debug\netcoreapp3.1\notebookmenutask.genruntimeconfig.cache
